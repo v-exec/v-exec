@@ -1,7 +1,7 @@
 ### Hi, I'm vi.
 
 I'm a freelance designer and developer producing applications, 3D products, music, videos, and graphics.
-I also teach various forms of media production and programming.
+I also teach media production and programming.
 
 Most of the stuff here is personal projects for the web and unity.
 
