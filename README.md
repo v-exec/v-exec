@@ -1,6 +1,6 @@
 ### Hi, I'm vi.
 
-I'm a multidisciplinary designer and developer producing applications, games, 3D products, music, videos, and graphics.
+I'm a generalist producing applications, games, 3D products, music, videos, and graphics.
 
 Most of the stuff here is personal projects for the web and unity.
 
